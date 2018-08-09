@@ -1,0 +1,7 @@
+C:\Users\Jamal\source\repos\Kata\PerfectLottery\bin\Debug\PerfectLottery.exe.config
+C:\Users\Jamal\source\repos\Kata\PerfectLottery\bin\Debug\PerfectLottery.exe
+C:\Users\Jamal\source\repos\Kata\PerfectLottery\bin\Debug\PerfectLottery.pdb
+C:\Users\Jamal\source\repos\Kata\PerfectLottery\obj\Debug\PerfectLottery.csprojAssemblyReference.cache
+C:\Users\Jamal\source\repos\Kata\PerfectLottery\obj\Debug\PerfectLottery.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\source\repos\Kata\PerfectLottery\obj\Debug\PerfectLottery.exe
+C:\Users\Jamal\source\repos\Kata\PerfectLottery\obj\Debug\PerfectLottery.pdb

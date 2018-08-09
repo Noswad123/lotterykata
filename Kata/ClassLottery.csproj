@@ -42,8 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Lottery.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="ClassLottery.cs" />
+    <Compile Include="ClassProgram.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

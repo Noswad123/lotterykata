@@ -1,0 +1,7 @@
+C:\Users\Jamal\source\repos\Kata\Kata\bin\Debug\Kata.exe.config
+C:\Users\Jamal\source\repos\Kata\Kata\bin\Debug\Kata.exe
+C:\Users\Jamal\source\repos\Kata\Kata\bin\Debug\Kata.pdb
+C:\Users\Jamal\source\repos\Kata\Kata\obj\Debug\ClassLottery.csprojAssemblyReference.cache
+C:\Users\Jamal\source\repos\Kata\Kata\obj\Debug\ClassLottery.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\source\repos\Kata\Kata\obj\Debug\Kata.exe
+C:\Users\Jamal\source\repos\Kata\Kata\obj\Debug\Kata.pdb

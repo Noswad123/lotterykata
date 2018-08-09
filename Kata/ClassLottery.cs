@@ -4,35 +4,37 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Kata
+namespace ClassLottery
 {
-    public class Lottery
-
+    public class ClassLottery
     {
         List<int> LotteryNumbers;
 
-        public Lottery(List<int> lotteryNumbers)
-        {
-            this.LotteryNumbers = lotteryNumbers;
-        }
-        public Lottery()
+        public ClassLottery()
         {
             LotteryNumbers = new List<int>();
         }
-        public List<int> GetLotteryNumbers()
+
+        public ClassLottery(List<int> lotteryNumbers)
+        {
+            this.LotteryNumbers = lotteryNumbers;
+        }      
+
+        public List<int> SortLotteryNumbers()
         {
             LotteryNumbers.Sort();
             return LotteryNumbers;
         }
+
         public void DrawNumber(int RandomNumber)
         {
-       
             LotteryNumbers.Add(RandomNumber);
-            
         }
-        public void BubbleSort()
+
+        public void DrawNumber()
         {
-            
+            var randomNumber = new Random();
+            LotteryNumbers.Add(randomNumber.Next(59));
         }
     }
 }

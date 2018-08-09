@@ -1,0 +1,7 @@
+C:\Users\Jamal\source\repos\Kata\BadLottery\obj\Debug\DemoLottery.csprojAssemblyReference.cache
+C:\Users\Jamal\source\repos\Kata\BadLottery\obj\Debug\DemoLottery.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\source\repos\Kata\BadLottery\obj\Debug\BadLottery.exe
+C:\Users\Jamal\source\repos\Kata\BadLottery\obj\Debug\BadLottery.pdb
+C:\Users\Jamal\source\repos\Kata\BadLottery\bin\Debug\BadLottery.exe.config
+C:\Users\Jamal\source\repos\Kata\BadLottery\bin\Debug\BadLottery.exe
+C:\Users\Jamal\source\repos\Kata\BadLottery\bin\Debug\BadLottery.pdb

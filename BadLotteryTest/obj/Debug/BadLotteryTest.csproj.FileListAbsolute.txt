@@ -1,0 +1,14 @@
+C:\Users\Jamal\source\repos\Kata\BadLotteryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jamal\source\repos\Kata\BadLotteryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jamal\source\repos\Kata\BadLotteryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jamal\source\repos\Kata\BadLotteryTest\bin\Debug\BadLotteryTest.dll
+C:\Users\Jamal\source\repos\Kata\BadLotteryTest\bin\Debug\BadLotteryTest.pdb
+C:\Users\Jamal\source\repos\Kata\BadLotteryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jamal\source\repos\Kata\BadLotteryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jamal\source\repos\Kata\BadLotteryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jamal\source\repos\Kata\BadLotteryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jamal\source\repos\Kata\BadLotteryTest\obj\Debug\BadLotteryTest.csprojAssemblyReference.cache
+C:\Users\Jamal\source\repos\Kata\BadLotteryTest\obj\Debug\BadLotteryTest.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\source\repos\Kata\BadLotteryTest\obj\Debug\BadLotteryTest.csproj.CopyComplete
+C:\Users\Jamal\source\repos\Kata\BadLotteryTest\obj\Debug\BadLotteryTest.dll
+C:\Users\Jamal\source\repos\Kata\BadLotteryTest\obj\Debug\BadLotteryTest.pdb

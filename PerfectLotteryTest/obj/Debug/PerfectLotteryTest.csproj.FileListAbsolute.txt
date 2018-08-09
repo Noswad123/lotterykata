@@ -1,0 +1,14 @@
+C:\Users\Jamal\source\repos\Kata\PerfectLotteryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jamal\source\repos\Kata\PerfectLotteryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jamal\source\repos\Kata\PerfectLotteryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jamal\source\repos\Kata\PerfectLotteryTest\bin\Debug\PerfectLotteryTest.dll
+C:\Users\Jamal\source\repos\Kata\PerfectLotteryTest\bin\Debug\PerfectLotteryTest.pdb
+C:\Users\Jamal\source\repos\Kata\PerfectLotteryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jamal\source\repos\Kata\PerfectLotteryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jamal\source\repos\Kata\PerfectLotteryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jamal\source\repos\Kata\PerfectLotteryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jamal\source\repos\Kata\PerfectLotteryTest\obj\Debug\PerfectLotteryTest.csprojAssemblyReference.cache
+C:\Users\Jamal\source\repos\Kata\PerfectLotteryTest\obj\Debug\PerfectLotteryTest.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\source\repos\Kata\PerfectLotteryTest\obj\Debug\PerfectLotteryTest.csproj.CopyComplete
+C:\Users\Jamal\source\repos\Kata\PerfectLotteryTest\obj\Debug\PerfectLotteryTest.dll
+C:\Users\Jamal\source\repos\Kata\PerfectLotteryTest\obj\Debug\PerfectLotteryTest.pdb
